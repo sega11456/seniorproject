@@ -1,0 +1,62 @@
+
+div.header {
+    
+    width: auto;
+    height: 89px;
+    left: 0px;
+    top: 0px;
+    background-color: #FFA012;
+    
+}
+div.text {
+    position: absolute;
+    width: 291px;
+    height: 53px;
+    left: 130px;
+    top: 4px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 52px;
+    color: #FFFFFF;
+}
+div.text2 {
+    position: absolute;
+    width: 514px;
+    height: 35px;
+    left: 130px;
+    top: 46px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+    color: #FFFFFF;
+}
+
+div.dropdown {
+    
+    top: 100px;
+}
+
+
+img {
+    
+    position: absolute;
+    width: 98px;
+    height: 89px;
+    left: 24px;
+    top: 0px;
+
+}
+
+h1 {
+    color: brown;
+    font-size: larger;
+    text-align: center;
+}
+
+body {
+    background-color: #92a8d1;
+}
