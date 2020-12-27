@@ -36,12 +36,13 @@ div.text2 {
 }
 
 div.dropdown {
-    
-    top: 100px;
+    position: absolute;
+    right: 100px;    
+    top: 25px;
 }
 
 
-img {
+img  {
     
     position: absolute;
     width: 98px;
@@ -51,12 +52,42 @@ img {
 
 }
 
-h1 {
-    color: brown;
-    font-size: larger;
+body {
+    background-color: #FFFFFF;
+}
+
+div.footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+    height: 70px;
+    background-color: #FFA012;
+
+
+}
+
+div.textmid {
+    
+    color: white;
     text-align: center;
 }
 
-body {
-    background-color: #92a8d1;
+div.textfb {
+    position: absolute;
+    color: white;
+    left: 75px;
+    top: 25px;
+
 }
+
+div.footerbanner img { 
+    position: absolute;
+    
+    width: 40px;
+    height: 40px;
+    top: 20px;
+    right: 50px;
+    
+}
+
+
