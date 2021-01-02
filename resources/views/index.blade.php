@@ -60,7 +60,7 @@
                 </div>
 
                 <div class="textfb">
-                    <p> commit 1 </p>
+                    <p> commit 2 </p>
                 </div>
 
                 <div class="footerbanner">
