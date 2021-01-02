@@ -3,13 +3,12 @@ body{
 }
 div.header {
     
-    width: auto;
+    width: 100%;
     height: 97px;
-    left: 0px;
     top: 0px;
     background-color :#FFA012;
     border-bottom: 8px solid #FFD90F;
-    
+    position: fixed;
 }
 div.text {
     position: absolute;
