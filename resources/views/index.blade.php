@@ -41,7 +41,6 @@
                         <a class="dropdown-item" href="/">ตรวจสอบสถานะคำร้อง</a>
                         <a class="dropdown-item" href="/login">ลงชื่อออก</a> 
                     </div>
-
                 </div>
             </div>
             <div class="box">
