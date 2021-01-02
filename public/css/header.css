@@ -33,6 +33,11 @@ div.text2 {
     line-height: 35px;
     color: #ffffff;
 }
+div.box1 {
+    position: fixed;
+    width: 300px;
+    
+}
 
 div.dropdown {
     position: absolute;
