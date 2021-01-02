@@ -60,7 +60,7 @@
                 </div>
 
                 <div class="textfb">
-                    <p> อัพอันนี้เข้าไปในเทส </p>
+                    <p> รักร่าเทสๆ </p>
                 </div>
 
                 <div class="footerbanner">
