@@ -3,7 +3,7 @@
     <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kanit">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
     <link href="css/header.css" rel="stylesheet">
     <link rel="icon" href="https://www.cc.kmutt.ac.th/images/logow.png" type="image/x-icon">
@@ -12,7 +12,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
-        <title>KMUTT Document Work Floww</title>
+        <title>KMUTT Document Work Flow</title>
     
     </head>
     <body>
@@ -25,16 +25,16 @@
                 </div>
 
                 <div class="text">
-                    <a> ระบบงานเอกสารwwwsy;;s;fsd;f;sdf;sdf;sd;fsd;fsd;fsd;fssd </a>
+                    ระบบงานเอกสาร
                 </div>
 
                 <div class="text2">
-                    <a> Document System For KMUTT Student </a>
+                    Document System For KMUTT Student 
                 </div>    
 
                 <div class="dropdown">
                     <button class="btn btn-outline-light dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        <a>Your Name</a>
+                        Your Name
                     </button>
 
                     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
@@ -43,11 +43,9 @@
                     </div>
 
                 </div>
-                
+            </div>
             
-
-            </div>    
-
+       
             <div class="footer">
 
                 <div class="Footer_Layout"> 

@@ -1,11 +1,14 @@
-
+body{
+    font-family: 'Kanit', sans-serif;
+}
 div.header {
     
     width: auto;
-    height: 89px;
+    height: 97px;
     left: 0px;
     top: 0px;
-    background-color :rgb(47, 216, 25);
+    background-color :#FFA012;
+    border-bottom: 8px solid #FFD90F;
     
 }
 div.text {
@@ -14,9 +17,7 @@ div.text {
     height: 53px;
     left: 130px;
     top: 4px;
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 500;
+    font-weight: 50px;
     font-size: 40px;
     line-height: 52px;
     color: #FFFFFF;
@@ -27,12 +28,10 @@ div.text2 {
     height: 35px;
     left: 130px;
     top: 46px;
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: normal;
+    font-weight: lighter;
     font-size: 30px;
     line-height: 35px;
-    color: #ebc805;
+    color: #ffffff;
 }
 
 div.dropdown {
