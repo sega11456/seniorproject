@@ -1,14 +1,11 @@
-body{
-    font-family: 'Kanit', sans-serif;
-}
+
 div.header {
     
     width: auto;
-    height: 97px;
+    height: 89px;
     left: 0px;
     top: 0px;
-    background-color :#FFA012;
-    border-bottom: 8px solid #FFD90F;
+    background-color: #FFA012;
     
 }
 div.text {
@@ -17,7 +14,9 @@ div.text {
     height: 53px;
     left: 130px;
     top: 4px;
-    font-weight: 50px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
     font-size: 40px;
     line-height: 52px;
     color: #FFFFFF;
@@ -28,10 +27,12 @@ div.text2 {
     height: 35px;
     left: 130px;
     top: 46px;
-    font-weight: lighter;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
     font-size: 30px;
     line-height: 35px;
-    color: #ffffff;
+    color: #FFFFFF;
 }
 
 div.dropdown {
@@ -39,7 +40,6 @@ div.dropdown {
     right: 100px;    
     top: 25px;
 }
-
 
 
 img  {
@@ -56,29 +56,38 @@ body {
     background-color: #FFFFFF;
 }
 
-/*div.container{
-    background-color: red ;
-    height: 300px;
-    width: 500px;
-    display: block;
-    margin: auto;
-    display: table;
-
-}*/
-
 div.footer {
-    position: absolute;
+    position: fixed;
     width: 100%;
     bottom: 0px;
     height: 70px;
     background-color: #FFA012;
 
+
 }
 
-div.FooterText {
+div.textmid {
+    
     color: white;
     text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
 }
+
+div.textfb {
+    position: absolute;
+    color: white;
+    left: 75px;
+    top: 25px;
+
+}
+
+div.footerbanner img { 
+    position: absolute;
+    
+    width: 40px;
+    height: 40px;
+    top: 20px;
+    right: 50px;
+    
+}
+
 
