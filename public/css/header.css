@@ -5,7 +5,7 @@ div.header {
     height: 89px;
     left: 0px;
     top: 0px;
-    background-color :rgb(47, 216, 25);
+    background-color: #FFA012;
     
 }
 div.text {
@@ -32,7 +32,7 @@ div.text2 {
     font-weight: normal;
     font-size: 30px;
     line-height: 35px;
-    color: #ebc805;
+    color: #FFFFFF;
 }
 
 div.dropdown {
@@ -82,5 +82,4 @@ div.FooterText {
     padding-top: 20px;
     padding-bottom: 20px;
 }
-
 
