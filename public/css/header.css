@@ -103,6 +103,7 @@ div.dropdown {
 }
 
 
+
 img  {
     
     position: absolute;
@@ -117,12 +118,26 @@ body {
     background-color: #FFFFFF;
 }
 
+/*div.container{
+    background-color: red ;
+    height: 300px;
+    width: 500px;
+    display: block;
+    margin: auto;
+    display: table;
+
+}*/
+
 div.footer {
-    position: fixed;
+    position: absolute;
     width: 100%;
     bottom: 0px;
     height: 70px;
     background-color: #FFA012;
+<<<<<<< HEAD
+=======
+
+>>>>>>> 940815676658a805c9a1f9c89da5be48fc886d39
 }
 
 div.FooterText {
@@ -132,4 +147,7 @@ div.FooterText {
     padding-bottom: 20px;
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 940815676658a805c9a1f9c89da5be48fc886d39

@@ -17,15 +17,15 @@
     </head>
     <body>
         
-            <div class="header">
+        <div class="header">
 
-                <div class="logo">  
+            <div class="logo">  
                     <a href="https://www.facebook.com/dumbbellstory">
                     <img src="https://www.cc.kmutt.ac.th/images/logow.png" alt="logokmutt" >
-                </div>
+            </div>
 
                 <div class="text">
-                    ระบบงานเอกสาร
+                    <a> ระบบงานเอกสาร </a>
                 </div>
 
                 <div class="text2">
@@ -43,7 +43,7 @@
                     </div>
 
                 </div>
-            </div>
+
             <div class="box">
                 <div class="box1">คำร้องทั่วไป
                     
@@ -55,12 +55,29 @@
                     
                 </div>
             </div>
+<<<<<<< HEAD
+=======
+
+                
+        </div>
+            
+            <div class="container">
+
+            </div>
+
+   
+
+>>>>>>> 940815676658a805c9a1f9c89da5be48fc886d39
             <div class="footer">
                                 <div class="FooterText">
                                      © 2020 Document System For KMUTT. All Rights Reserved
                                 </div>
           
+<<<<<<< HEAD
             </div>
+=======
+            </div> 
+>>>>>>> 940815676658a805c9a1f9c89da5be48fc886d39
                
     </body>
 </html>
