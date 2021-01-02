@@ -60,7 +60,7 @@
                 </div>
 
                 <div class="textfb">
-                    <p> รักร่า </p>
+                    <p> รักร่าเทสๆ </p>
                 </div>
 
                 <div class="footerbanner">
