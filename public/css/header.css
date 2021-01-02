@@ -1,0 +1,93 @@
+
+div.header {
+    
+    width: auto;
+    height: 89px;
+    left: 0px;
+    top: 0px;
+    background-color: #FFA012;
+    
+}
+div.text {
+    position: absolute;
+    width: 291px;
+    height: 53px;
+    left: 130px;
+    top: 4px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 52px;
+    color: #FFFFFF;
+}
+div.text2 {
+    position: absolute;
+    width: 514px;
+    height: 35px;
+    left: 130px;
+    top: 46px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+    color: #FFFFFF;
+}
+
+div.dropdown {
+    position: absolute;
+    right: 100px;    
+    top: 25px;
+}
+
+
+img  {
+    
+    position: absolute;
+    width: 98px;
+    height: 89px;
+    left: 24px;
+    top: 0px;
+
+}
+
+body {
+    background-color: #FFFFFF;
+}
+
+div.footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+    height: 70px;
+    background-color: #FFA012;
+
+
+}
+
+div.textmid {
+    
+    color: white;
+    text-align: center;
+}
+
+div.textfb {
+    position: absolute;
+    color: white;
+    left: 75px;
+    top: 25px;
+
+}
+
+div.footerbanner img { 
+    position: absolute;
+    
+    width: 40px;
+    height: 40px;
+    top: 20px;
+    right: 50px;
+    
+}
+
+
