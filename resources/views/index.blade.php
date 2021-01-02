@@ -3,7 +3,7 @@
     <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kanit">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
     <link href="css/header.css" rel="stylesheet">
     <link rel="icon" href="https://www.cc.kmutt.ac.th/images/logow.png" type="image/x-icon">
@@ -29,12 +29,12 @@
                 </div>
 
                 <div class="text2">
-                    <a> Document System For KMUTT Student </a>
+                    Document System For KMUTT Student 
                 </div>    
 
                 <div class="dropdown">
                     <button class="btn btn-outline-light dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        <a>Your Name</a>
+                        Your Name
                     </button>
 
                     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
