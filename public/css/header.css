@@ -5,7 +5,7 @@ div.header {
     height: 89px;
     left: 0px;
     top: 0px;
-    background-color: red;
+    background-color: #FFA012;
     
 }
 div.text {
@@ -42,6 +42,7 @@ div.dropdown {
 }
 
 
+
 img  {
     
     position: absolute;
@@ -56,38 +57,30 @@ body {
     background-color: #FFFFFF;
 }
 
+/*div.container{
+    background-color: red ;
+    height: 300px;
+    width: 500px;
+    display: block;
+    margin: auto;
+    display: table;
+
+}*/
+
 div.footer {
-    position: fixed;
+    position: absolute;
     width: 100%;
     bottom: 0px;
     height: 70px;
     background-color: #FFA012;
 
-
 }
 
-div.textmid {
-    
+div.FooterText {
     color: white;
     text-align: center;
-}
-
-div.textfb {
-    position: absolute;
-    color: white;
-    left: 75px;
-    top: 25px;
-
-}
-
-div.footerbanner img { 
-    position: absolute;
-    
-    width: 40px;
-    height: 40px;
-    top: 20px;
-    right: 50px;
-    
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 
