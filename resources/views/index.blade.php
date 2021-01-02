@@ -60,7 +60,7 @@
                 </div>
 
                 <div class="textfb">
-                    <p> commit 2 </p>
+                    <p> รักร่า </p>
                 </div>
 
                 <div class="footerbanner">
