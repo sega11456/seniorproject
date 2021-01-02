@@ -44,10 +44,17 @@
 
                 </div>
             </div>
-            <div class="box1">
-                
+            <div class="box">
+                <div class="box1">คำร้องทั่วไป
+                    
+                </div>
+                <div class="box2">ใบลงทะเบียน เพิ่ม ลด ถอน เปลี่ยนกลุ่ม
+                    
+                </div>
+                <div class="box3">คำขอลา<br>ป่วย/ลากิจ
+                    
+                </div>
             </div>
-       
             <div class="footer">
 
                 <div class="Footer_Layout"> 
