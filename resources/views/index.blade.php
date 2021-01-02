@@ -55,7 +55,7 @@
             <div class="footer">
 
                                 <div class="FooterText">
-                                    © 2020 Document System For KMUTT. All Rights Reserved
+                                     © 2020 Document System For KMUTT. All Rights Reserved
                                 </div>
           
             </div> 
