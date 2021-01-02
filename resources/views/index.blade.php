@@ -56,26 +56,11 @@
                 </div>
             </div>
             <div class="footer">
-
-                <div class="Footer_Layout"> 
-                    <div class="Footer_container">
                                 <div class="FooterText">
-                                    © 2020 Document System For KMUTT. All Rights Reserved
+                                     © 2020 Document System For KMUTT. All Rights Reserved
                                 </div>
-                    </div>
-
-                </div>
-
-                <div class="textfb">
-                    <p> รักร่า </p>
-                </div>
-
-                <div class="footerbanner">
-                    <a href="https://www.facebook.com/dumbbellstory">
-                    <img alt="fbpage" src="https://i.pinimg.com/originals/30/99/af/3099aff4115ee20f43e3cdad04f59c48.png">
-                </div>
-
-            </div> 
+          
+            </div>
                
     </body>
 </html>
