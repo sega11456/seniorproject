@@ -22,6 +22,10 @@ Route::get('/login', function () {
     return view('login');
 });
 
+Route::get('/2', function () {
+    return view('parallax');
+});
+
 
 
 
