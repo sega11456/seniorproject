@@ -53,9 +53,9 @@ body {
 }
 
 div.footer {
-    position: fixed;
-    width: 100%;
-    bottom: 0px;
+    position: sticky;
+    display: block;
+
     height: 70px;
     background-color: #FFA012;
 
@@ -67,42 +67,26 @@ div.FooterText {
     padding-top: 20px;
     padding-bottom: 20px;
 }
-
-
-.box{
-    width: 667px;
-    height: 206px;
-    border: 1px transparent;
-    margin: 20% auto;
+.form3 {
+    width: 895px;
+    height: 1066px;
+    background-color: #FFA012;
+    border-radius: 20px;
+    border-bottom: 8px solid #FFD90F;
+    border-right: 8px solid #FFD90F;
+    margin:10% auto;
     position: relative;
-    
 }
-.box1,.box2,.box3 {
-    width: 180px;
-    height: 206px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    justify-content: center;
+h1 {
+    text-align: left;
+    padding-top: 32px;
+    padding-left: 56px;
+    font-size: 35px;
     color: #FFFFFF;
-    font-size: 30px;
-    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.19), 0 8px 20px 0 rgba(0, 0, 0, 0.19);
 }
-.box1 {
-    background-color: #FFA012;
-    border-radius: 20px;
-    position: absolute;
-    left: 0%;
-}
-.box2 {
-    background-color: #FFA012;
-    border-radius: 20px;
-    position: absolute;
-    right: 0%;
-}
-.box3 {
-    background-color:  #FFA012;
-    border-radius: 20px;
-    position: absolute;
-    right: 242px;
+.fname {
+    border-radius:10px;
+    border: transparent;
+    width: 166px;
+    height: 40px;
 }
