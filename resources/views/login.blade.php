@@ -21,18 +21,18 @@
 
         <form>
         <div class="input-border">
-      <input type="text" class="text" required>
+      <input type="text" class="text" require >
     <label>รหัสนักศึกษา</label>
     <div class="border"></div>
     </div>
  
   <div class="input-border">
-    <input type="password" class="text" required>
+    <input type="password" class="text" require>
     <label>รหัสผ่าน</label>
     <div class="border"></div>
   </div>
  
- <input href="/index" type="submit" class="btn" value="Log In">
+  <a href="/" class="btn btn-lg active" type="submit" aria-pressed="true">Login</a>
 </form>
  
 </div> 
