@@ -1,9 +1,6 @@
-body{
-    font-family: 'Kanit', sans-serif;
-}
 div.header {
-    
-    width: auto;
+    position: absolute;
+    width: 100%;
     height: 97px;
     left: 0px;
     top: 0px;
@@ -28,7 +25,7 @@ div.text2 {
     height: 35px;
     left: 130px;
     top: 46px;
-    font-weight: lighter;
+    font-weight: lighter ,300px;
     font-size: 30px;
     line-height: 35px;
     color: #ffffff;
@@ -36,11 +33,9 @@ div.text2 {
 
 div.dropdown {
     position: absolute;
-    right: 100px;    
+    right: 50px;    
     top: 25px;
 }
-
-
 
 img  {
     
@@ -53,18 +48,9 @@ img  {
 }
 
 body {
+    font-family: 'Kanit', sans-serif;
     background-color: #FFFFFF;
 }
-
-/*div.container{
-    background-color: red ;
-    height: 300px;
-    width: 500px;
-    display: block;
-    margin: auto;
-    display: table;
-
-}*/
 
 div.footer {
     position: fixed;
@@ -82,3 +68,41 @@ div.FooterText {
     padding-bottom: 20px;
 }
 
+
+.box{
+    width: 667px;
+    height: 206px;
+    border: 1px transparent;
+    margin: 20% auto;
+    position: relative;
+    
+}
+.box1,.box2,.box3 {
+    width: 180px;
+    height: 206px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    color: #FFFFFF;
+    font-size: 30px;
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.19), 0 8px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.box1 {
+    background-color: #FFA012;
+    border-radius: 20px;
+    position: absolute;
+    left: 0%;
+}
+.box2 {
+    background-color: #FFA012;
+    border-radius: 20px;
+    position: absolute;
+    right: 0%;
+}
+.box3 {
+    background-color:  #FFA012;
+    border-radius: 20px;
+    position: absolute;
+    right: 242px;
+}

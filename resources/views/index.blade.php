@@ -3,7 +3,10 @@
     <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kanit">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
     <link href="css/header.css" rel="stylesheet">
     <link rel="icon" href="https://www.cc.kmutt.ac.th/images/logow.png" type="image/x-icon">
@@ -19,7 +22,7 @@
         
         <div class="header">
 
-            <div class="logo">  
+            <div class="img">  
                     <a href="https://www.facebook.com/dumbbellstory">
                     <img src="https://www.cc.kmutt.ac.th/images/logow.png" alt="logokmutt" >
             </div>
@@ -43,15 +46,23 @@
                     </div>
 
                 </div>
+
+            <div class="box">
+                <div class="box1">
+                    คำร้องทั่วไป
+                </div>
+
+                <div class="box2">ใบลงทะเบียน เพิ่ม ลด ถอน เปลี่ยนกลุ่ม
+                    
+                </div>
+                
+                <div class="box3">คำขอลา<br>ป่วย/ลากิจ
+                    
+                </div>
+            </div>    
                 
         </div>
-            
-            <div class="container">
-
-            </div>
-
-   
-
+       
             <div class="footer">
 
                                 <div class="FooterText">
