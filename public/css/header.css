@@ -67,7 +67,7 @@ body {
 }*/
 
 div.footer {
-    position: absolute;
+    position: fixed;
     width: 100%;
     bottom: 0px;
     height: 70px;
