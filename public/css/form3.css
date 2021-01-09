@@ -84,9 +84,29 @@ h1 {
     font-size: 35px;
     color: #FFFFFF;
 }
-.fname {
+input{
+    border-radius:10px;
+    border: transparent;
+    width: 382px;
+    height: 40px; 
+    margin: 8px ;
+    padding: 8px;
+}
+select{
     border-radius:10px;
     border: transparent;
     width: 166px;
-    height: 40px;
+    height: 40px; 
+    margin: 8px ;
+    margin-left: 162px;
+    padding: 8px;
 }
+.Group1 {
+    border-radius:10px;
+    border: transparent;
+    width: 300px;
+    height: 40px; 
+    margin: 8px ;
+    padding: 8px;
+}
+

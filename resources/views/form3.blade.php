@@ -51,15 +51,67 @@
                     <h1>ใบลงทะเบียนเพิ่ม-ลด-ถอน-เปลี่ยนกลุ่ม-เปลี่ยนรายวิชา<br>RO-26</h1>
                     
                     <div>
-                        <select>
+                        <select placeholder="คำนำหน้า">
+                            <option value="" disabled selected>คำนำหน้า</option>
                             <option value="male">นาย</option>
                             <option value="female">นาง</option>
                             <option value="maried">นางสาว</option>
                         </select>
-                        <input class="fname" type="text" placeholder="ชื่อ" >
+                        <input id="fname" type="text" placeholder="ชื่อ" Name="First Name">
                     </div>
-                </div>
-            
+
+                    <div>
+                        <select placeholder="ภาคการศึกษา">
+
+                            <option value="male">1</option>
+                            <option value="female">2</option>
+                        </select>
+                        <input  type="text" placeholder="ภาคการศึกษา" >
+                    </div>
+
+                    <input  type="text" placeholder="รหัสนักศึกษา" >
+
+                    <div>
+                    <input type="text" placeholder="คณะ">
+                    </div>
+
+                    <div>
+                    <input  type="text" placeholder="ภาควิชา/สาขา" >
+                    </div>
+
+                    <div>
+                        <select placeholder="ระดับการศึกษา">
+                            <option value="" disabled selected>ระดับการศึกษา</option>
+                            <option value="phd1">ปริญญาตรี</option>
+                            <option value="phd2">ปริญญาโท</option>
+                            <option value="phd3">ปริญญาเอก</option>
+                            <option value="trade">แลกเปลี่ยน</option>
+                            <option value="out">บุคคลภายนอก</option>
+                        </select>
+                    </div>
+
+                    <div>
+                        <select placeholder="หลักสูตร">
+                            <option value="" disabled selected>หลักสูตร</option>
+                            <option value="ืnormal">ปกติ</option>
+                            <option value="inter">นานาชาติ</option>
+                        </select>
+                    </div>
+
+                    <div>
+                    <input class="Group1" type="text" placeholder="ชั้นปี" >
+                    <input class="Group1" type="text" placeholder="GPAX" >
+                    </div>
+
+                    <div>
+                    <input  type="text" placeholder="เบอร์โทร" >
+                    </div>
+                            
+                    <div>
+                    <input  type="text" placeholder="E-mail" >
+                    </div>
+                            </div>
+                        
 
             </div> 
             <div class="footer">
