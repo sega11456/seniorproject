@@ -3,15 +3,16 @@ body{
 }
 div.header {
     
-    width: 100%;
+    width: auto;
     height: 97px;
+    left: 0px;
     top: 0px;
     background-color :#FFA012;
     border-bottom: 8px solid #FFD90F;
-    position: fixed;
+    
 }
 div.text {
-    position: absolute;
+    position: absolute ;
     width: 291px;
     height: 53px;
     left: 130px;
@@ -32,74 +33,13 @@ div.text2 {
     line-height: 35px;
     color: #ffffff;
 }
-.box{
-    width: 667px;
-    height: 206px;
-    border: 1px transparent;
-    margin: 15% auto;
-    position: relative;
-}
-.box1,.box2,.box3 {
-    width: 180px;
-    height: 206px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    justify-content: center;
-    color: #FFFFFF;
-    font-size: 30px;
-    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.19), 0 8px 20px 0 rgba(0, 0, 0, 0.19);
-}
-.box1 {
-    background-color: #FFA012;
-    border-radius: 20px;
-    position: absolute;
-    left: 0%;
-}
-.box2 {
-    background-color: #FFA012;
-    border-radius: 20px;
-    position: absolute;
-    right: 0%;
-}
-.box3 {
-    background-color:  #FFA012;
-    border-radius: 20px;
-    position: absolute;
-    right: 242px;
-}
-/*div.box1 {
-    position: absolute;
-    background-color :#FFA012;
-    border-radius: 20px;
-    width: 180px;
-    height: 206px;
-    margin-top: 15%;
-    margin-left: 45%;
-}
-p {
-    position: relative;
-    font-size: 30px;
-    color: white;
-    text-align: center;
-    top: 40%;
- 
-}
-div.box2 {
-    position: absolute;
-    background-color :#FFA012;
-    border-radius: 20px;
-    width: 180px;
-    height: 206px;
-    margin-top: 15%;
-    margin-left: 32%;
-}*/
 
 div.dropdown {
     position: absolute;
     right: 100px;    
     top: 25px;
 }
+
 
 
 img  {
@@ -111,9 +51,20 @@ img  {
     top: 0px;
 
 }
+
 body {
     background-color: #FFFFFF;
 }
+
+/*div.container{
+    background-color: red ;
+    height: 300px;
+    width: 500px;
+    display: block;
+    margin: auto;
+    display: table;
+
+}*/
 
 div.footer {
     position: fixed;
@@ -121,6 +72,7 @@ div.footer {
     bottom: 0px;
     height: 70px;
     background-color: #FFA012;
+
 }
 
 div.FooterText {
@@ -129,3 +81,4 @@ div.FooterText {
     padding-top: 20px;
     padding-bottom: 20px;
 }
+
