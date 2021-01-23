@@ -55,7 +55,6 @@ body {
 div.footer {
     position: sticky;
     display: block;
-
     height: 70px;
     background-color: #FFA012;
 
@@ -67,14 +66,18 @@ div.FooterText {
     padding-top: 20px;
     padding-bottom: 20px;
 }
+*:focus {
+    outline: none;
+  }
 .form3 {
     width: 895px;
-    height: 1556px;
+    height: 1066px;
     background-color: #FFA012;
     border-radius: 20px;
     border-bottom: 8px solid #FFD90F;
     border-right: 8px solid #FFD90F;
     margin:10% auto;
+    margin-bottom: 0px;
     position: relative;
 }
 h1 {
@@ -193,4 +196,23 @@ input[type="radio"]:nth-of-type(3):checked ~ .slide-item {
 input[type="radio"]:nth-of-type(4):checked ~ .slide-item {
     left: calc(74.5%);
 }
+.btn1 {
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+    border-radius: 35px;
+    border-width: 6px;
+    border-style: solid;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: #FFA012;
+    align-items: center;
+    height: 60px;
+    width: 150px;
+    font-size: 30px;
+    cursor: pointer;
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    position: relative;
+  }
 

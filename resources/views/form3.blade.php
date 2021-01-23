@@ -147,6 +147,7 @@
                         </div>        
 
                 </div> 
+                <button class="btn1 confirm">ยืนยัน</button>
         </div>
             <div class="footer">
 
