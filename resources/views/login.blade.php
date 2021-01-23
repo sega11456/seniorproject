@@ -17,12 +17,7 @@
     
     </head>
     <body>
-
-
-
-
-
-
+        
 
         <div class="card">
             <h2>เข้าสู่ระบบ</h2>
