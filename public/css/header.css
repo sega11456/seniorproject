@@ -1,9 +1,6 @@
-body{
-    font-family: 'Kanit', sans-serif;
-}
 div.header {
-    
-    width: auto;
+    position: absolute;
+    width: 100%;
     height: 97px;
     left: 0px;
     top: 0px;
@@ -12,7 +9,7 @@ div.header {
     
 }
 div.text {
-    position: absolute;
+    position: absolute ;
     width: 291px;
     height: 53px;
     left: 130px;
@@ -28,17 +25,56 @@ div.text2 {
     height: 35px;
     left: 130px;
     top: 46px;
-    font-weight: lighter;
+    font-weight: lighter ,300px;
     font-size: 30px;
     line-height: 35px;
     color: #ffffff;
 }
+
+div.dropdown {
+    position: absolute;
+    right: 50px;    
+    top: 25px;
+}
+
+img  {
+    
+    position: absolute;
+    width: 98px;
+    height: 89px;
+    left: 24px;
+    top: 0px;
+
+}
+
+body {
+    font-family: 'Kanit', sans-serif;
+    background-color: #FFFFFF;
+}
+
+div.footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+    height: 70px;
+    background-color: #FFA012;
+}
+
+div.FooterText {
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
 .box{
     width: 667px;
     height: 206px;
     border: 1px transparent;
-    margin: 15% auto;
+    margin: 20% auto;
     position: relative;
+    
 }
 .box1,.box2,.box3 {
     width: 180px;
@@ -68,66 +104,4 @@ div.text2 {
     border-radius: 20px;
     position: absolute;
     right: 242px;
-}
-/*div.box1 {
-    position: absolute;
-    background-color :#FFA012;
-    border-radius: 20px;
-    width: 180px;
-    height: 206px;
-    margin-top: 15%;
-    margin-left: 45%;
-}
-p {
-    position: relative;
-    font-size: 30px;
-    color: white;
-    text-align: center;
-    top: 40%;
- 
-}
-div.box2 {
-    position: absolute;
-    background-color :#FFA012;
-    border-radius: 20px;
-    width: 180px;
-    height: 206px;
-    margin-top: 15%;
-    margin-left: 32%;
-}*/
-
-div.dropdown {
-    position: absolute;
-    right: 100px;    
-    top: 25px;
-}
-
-
-img  {
-    
-    position: absolute;
-    width: 98px;
-    height: 89px;
-    left: 24px;
-    top: 0px;
-
-}
-
-body {
-    background-color: #FFFFFF;
-}
-
-div.footer {
-    position: fixed;
-    width: 100%;
-    bottom: 0px;
-    height: 70px;
-    background-color: #FFA012;
-}
-
-div.FooterText {
-    color: white;
-    text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
 }
