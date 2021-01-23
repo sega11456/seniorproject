@@ -40,6 +40,9 @@
                     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                         <a class="dropdown-item" href="/">ตรวจสอบสถานะคำร้อง</a>
                         <a class="dropdown-item" href="/login">ลงชื่อออก</a> 
+                        <a class="dropdown-item" href="/form1">ฟอร์ม 1 นะไอสัส</a> 
+                        <a class="dropdown-item" href="/form2">ฟอร์ม 2 นะเวน</a> 
+                        <a class="dropdown-item" href="/form3">ฟอร์ม 3 นะไอเห้</a>
                     </div>
 
                 </div>
@@ -47,7 +50,7 @@
         </div>
             
             <div class="container">
-
+    
             </div>
 
    

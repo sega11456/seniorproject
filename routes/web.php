@@ -21,3 +21,15 @@ Route::get('/', function () {
 Route::get('/login', function () {
     return view('login');
 });
+
+Route::get('/form1', function () {
+    return view('form1');
+});
+
+Route::get('/form2', function () {
+    return view('form2');
+});
+
+Route::get('/form3', function () {
+    return view('form3');
+});
