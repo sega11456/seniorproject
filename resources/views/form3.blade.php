@@ -102,7 +102,6 @@
                             <div>
                                 <input  type="text" placeholder="เบอร์โทร" >
                             </div>
-
                             <div>
                                 <input  type="text" placeholder="E-mail" >
                             </div>
@@ -120,18 +119,34 @@
                                 <label for="option-4">เปลี่ยนกลุ่ม</label>
                                 <div class="slide-item"></div>
                             </div>
-                            </div>        
-                                <a href="/">
-                                <button type="submit" form="form1" value="Submit">Submit</button>
-                                 </a>
-                        </div> 
+
+                            <div>
+                                <input class="Group2" type="text" placeholder="รหัสวิชา" >
+                                <input class="Group2" type="text" placeholder="กลุ่มที่" >
+                                <input class="Group2" type="text" placeholder="หน่วยกิต" >
+                            </div>
+
+                            <div>
+                                <input class="Group2" type="text" placeholder="รหัสวิชา" >
+                                <input class="Group2" type="text" placeholder="กลุ่มที่" >
+                                <input class="Group2" type="text" placeholder="หน่วยกิต" >
+                            </div>
+
+                            <div>
+                                <input class="Group2" type="text" placeholder="รหัสวิชา" >
+                                <input class="Group2" type="text" placeholder="กลุ่มที่" >
+                                <input class="Group2" type="text" placeholder="หน่วยกิต" >
+                            </div>
+
+                        </div>        
+
+                </div> 
+                <button class="btn1 confirm">ยืนยัน</button>
+        </div>
+            <div class="footer">
+
+                    <div class="FooterText">
+                        © 2020 Document System For KMUTT. All Rights Reserved .
                     </div>
-
-                    <div class="footer">
-
-            <div class="FooterText">
-                 © 2020 Document System For KMUTT. All Rights Reserved .
-                </div>
-                </body>
-
+    </body>
 </html>

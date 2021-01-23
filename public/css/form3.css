@@ -59,6 +59,9 @@ div.FooterText {
     padding-top: 20px;
     padding-bottom: 20px;
 }
+*:focus {
+    outline: none;
+  }
 .form3 {
     width: 895px;
     height: 1066px;
@@ -67,6 +70,7 @@ div.FooterText {
     border-bottom: 8px solid #FFD90F;
     border-right: 8px solid #FFD90F;
     margin:10% auto;
+    margin-bottom: 0px;
     position: relative;
 }
 h1 {
@@ -84,31 +88,6 @@ input{
     margin: 8px;
     padding: 8px;
 }
-
-textarea{
-    border-radius:10px;
-    border: transparent;
-    margin: 8px;
-    padding: 8px;
-    resize: none;
-    width: 382px;
-}
-
-input[type="date"]:not(.has-value):before{
-    color: rgb(0, 0, 0);
-    content: attr(placeholder);
-  }
-
-.date{
-    border-radius:10px;
-    border: transparent;
-    margin: 8px;
-    padding: 8px;
-    width: 180px;
-    height: 40px; 
-    text-decoration: underline;
-}
-
 select{
     border-radius:10px;
     border: transparent;
@@ -133,7 +112,6 @@ select{
     margin: 8px ;
     padding: 8px;
 }
-
 .box1 {
     margin: 48px 8px 8px 162px;
 }
@@ -144,6 +122,18 @@ h3 {
     font-weight: 300;
     color: #FFFFFF;
 }
+.box2 {
+    margin: 16px 8px 8px 162px;
+}
+.Group2 {
+    border-radius:10px;
+    border: transparent;
+    width: 180px;
+    height: 40px; 
+    margin: 4px;
+    margin-bottom: 8px;
+    padding: 8px;
+}
 .radio-toggles {
     align-items: center;
     background: #FFFFFF;
@@ -151,9 +141,9 @@ h3 {
     border-radius: 9999px;
     display: flex;
     justify-content: center;
-    margin: 20px auto;
+    margin-left:30px;
+    margin-bottom: 16px;
     overflow: hidden;
-    padding: 4px;
     position: relative;
     height: 40px;
     width: 512px;
@@ -179,8 +169,6 @@ label {
     z-index: 0;
 }
 
-
-
 input[type="radio"] {
     left: -9999px;
     position: absolute;
@@ -200,3 +188,23 @@ input[type="radio"]:nth-of-type(3):checked ~ .slide-item {
 input[type="radio"]:nth-of-type(4):checked ~ .slide-item {
     left: calc(74.5%);
 }
+.btn1 {
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+    border-radius: 35px;
+    border-width: 6px;
+    border-style: solid;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: #FFA012;
+    align-items: center;
+    height: 60px;
+    width: 150px;
+    font-size: 30px;
+    cursor: pointer;
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    position: relative;
+  }
+
