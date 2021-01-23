@@ -47,17 +47,19 @@
                 </div>
 
             <div class="box">
-                <div class="box1">
+                <button class="box1" onclick="window.location.href='login'">
                     คำร้องทั่วไป
-                </div>
+                </button>
 
-                <div class="box2">ใบลงทะเบียน เพิ่ม ลด ถอน เปลี่ยนกลุ่ม
+                <button class="box2" onclick="window.location.href='login'">
+                    ใบลงทะเบียน เพิ่ม ลด ถอน เปลี่ยนกลุ่ม
                     
-                </div>
+                </button>
                 
-                <div class="box3">คำขอลา<br>ป่วย/ลากิจ
-                    
-                </div>
+                <button class="box3" onclick="window.location.href='login'">
+
+                    คำขอลา<br>ป่วย/ลากิจ           
+                </button>
             </div>    
                 
         </div>

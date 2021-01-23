@@ -90,18 +90,34 @@ div.FooterText {
 .box1 {
     background-color: #FFA012;
     border-radius: 20px;
+    border: burlywood;
     position: absolute;
     left: 0%;
 }
+button.box1:hover{
+    color: #000;
+}
+
 .box2 {
     background-color: #FFA012;
     border-radius: 20px;
+    border: burlywood;
+
     position: absolute;
     right: 0%;
 }
+button.box2:hover{
+    color: #000;
+}
+
 .box3 {
     background-color:  #FFA012;
     border-radius: 20px;
+    border: burlywood;
+
     position: absolute;
     right: 242px;
+}
+button.box3:hover{
+    color: #000;
 }
