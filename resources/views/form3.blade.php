@@ -126,6 +126,24 @@
                                 <div class="slide-item"></div>
                             </div>
 
+                            <div>
+                                <input class="Group2" type="text" placeholder="รหัสวิชา" >
+                                <input class="Group2" type="text" placeholder="กลุ่มที่" >
+                                <input class="Group2" type="text" placeholder="หน่วยกิต" >
+                            </div>
+
+                            <div>
+                                <input class="Group2" type="text" placeholder="รหัสวิชา" >
+                                <input class="Group2" type="text" placeholder="กลุ่มที่" >
+                                <input class="Group2" type="text" placeholder="หน่วยกิต" >
+                            </div>
+
+                            <div>
+                                <input class="Group2" type="text" placeholder="รหัสวิชา" >
+                                <input class="Group2" type="text" placeholder="กลุ่มที่" >
+                                <input class="Group2" type="text" placeholder="หน่วยกิต" >
+                            </div>
+
                         </div>        
 
                 </div> 
