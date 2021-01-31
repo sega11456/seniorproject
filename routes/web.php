@@ -25,3 +25,7 @@ Route::get('/login', function () {
 Route::get('/form3', function () {
     return view('form3');
 });
+
+Route::get('/check', function () {
+    return view('check');
+});
